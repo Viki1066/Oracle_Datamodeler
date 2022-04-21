@@ -1,8 +1,12 @@
 # Oracle_Database_Modler
 HealthOne Project-Oracle Database Modler 
+
 Project Assignment
+
 HealthOne Medical Database
+
 Project Scenario:
+
 You are a small database consulting company specializing in developing databases for
 the medical industry. You have just been awarded the contract to develop a data
 model for a database application system for a mid-size health insurance company to
