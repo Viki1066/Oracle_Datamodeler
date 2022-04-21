@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="healtOne2" id="369C5D7E-3E02-B30B-BC74-BE91BD7E22D2" version="3.5">
+<createdBy>vprot</createdBy>
+<createdTime>2022-01-27 06:22:18 UTC</createdTime>
+<ownerDesignName>HealthOne1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>369C5D7E-3E02-B30B-BC74-BE91BD7E22D2</designId>
+</OSDM_Design>
